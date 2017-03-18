@@ -20,7 +20,7 @@ Math m = new Math();
 <br>
 <%="3 - 3 = " + m.sub(3, 3)%>
 <br>
-<%="4 x 4 = " + m.add(4, 4)%>
+<%="4 x 4 = " + m.multiply(4, 4)%>
 <br>
 </body>
 </html>
